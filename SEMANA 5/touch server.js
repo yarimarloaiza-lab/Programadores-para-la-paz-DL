@@ -1,0 +1,60 @@
+
+const express = require('express');
+const app = express();
+const PORT = 3000;
+
+// Middleware para leer JSON
+app.use(express.json());
+
+// Ruta POST /reporte
+app.post('/reporte', (req, res) => {
+    const mensaje = req.body.mensaje;
+
+    console.log("Reporte recibido:", mensaje);
+
+    res.json({
+        estado: "ok",
+        mensaje: "Reporte recibido correctamente"
+    });
+});
+
+// Ruta de prueba
+app.get('/', (req, res) => {
+    res.send("Servidor funcionando");
+});
+
+app.listen(PORT, () => {
+    console.log(`Servidor en http://localhost:${PORT}`);
+});
+
+
+
+const express = require('express');
+const app = express();
+const PORT = 3000;
+
+// Middleware para leer JSON
+app.use(express.json());
+
+// Ruta POST /reporte
+app.post('/reporte', (req, res) => {
+    const mensaje = req.body.mensaje;
+
+    console.log("Reporte recibido:", mensaje);
+
+    res.json({
+        estado: "ok",
+        mensaje: "Reporte recibido correctamente"
+    });
+});
+
+// Ruta de prueba
+app.get('/', (req, res) => {
+    res.send("Servidor funcionando");
+});
+
+app.listen(PORT, () => {
+    console.log(`Servidor en http://localhost:${PORT}`);
+});
+
+app.post('/reporte', handler)

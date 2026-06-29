@@ -1,0 +1,9 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+Para un desarrollador es importante saber usar la terminal porque facilita el trabajo.
+Permite navegar y organizar archivos de un proyecto.
+Ayuda a ejecutar comandos de manera rápida.
+Permite instalar y administrar herramientas necesarias.
+Mejora el control sobre los archivos y carpetas.
+Ayuda a trabajar con sistemas de programación.
+Hace más eficiente el desarrollo de aplicaciones.
+Es una habilidad básica para programar mejor

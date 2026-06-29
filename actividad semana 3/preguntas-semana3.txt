@@ -1,0 +1,11 @@
+pregunta 1
+respuesta: B. Un sistema de control de versiones para registrar cambios en proyectos
+
+pregunta 2
+respuesta: B. Registrar y organizar los archivos y cambios de un proyecto
+
+pregunta 3
+respuesta: A Agrega archivos al área de preparación para registrar cambios.
+
+pregunta 4
+respuesta: A. Guarda un registro de cambios realizados en el proyecto.

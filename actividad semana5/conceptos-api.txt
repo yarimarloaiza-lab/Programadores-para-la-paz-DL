@@ -1,0 +1,4 @@
+Qué hace esta ruta.
+crea un acceso para comunicacion entre personas 
+Para qué podría servir en una aplicación comunitaria
+srive de forma mas segura la comunicacion y los mensajes que quiera trasmitirse 

@@ -1,0 +1,23 @@
+¿Por qué la seguridad digital es importante para proteger plataformas tecnológicas que usan comunidades 
+o procesos participativos?
+
+La seguridad digital es vital en las plataformas comunitarias y participativas porque un solo ataque 
+puede destruir la confianza de los usuarios, exponer datos personales sensibles y alterar los resultados 
+de las decisiones colectivas.Cuando una comunidad se organiza en el espacio digital, la plataforma se 
+convierte en el reflejo de su voz y su seguridad es el pilar que la sostiene.
+
+Razones críticas de su importancia 
+Protección de la privacidad: Evita que datos personales (nombres, correos, ubicaciones o teléfonos) caigan
+en manos de terceros o redes de acoso.
+Preservación de la confianza: Si los usuarios sienten que el sitio es inseguro o hackeable, dejarán de 
+participar y reportar incidentes.
+Garantía de legitimidad: Protege los procesos de votación o consulta popular contra votos falsos, bots o 
+manipulación de resultados.
+Continuidad del servicio: Impide ataques de denegación de servicio (DDoS) que tiran la plataforma y silencian
+los canales de denuncia comunitaria.
+Prevención de represalias: En comunidades vulnerables o de activismo, el anonimato y el cifrado de datos 
+protegen la integridad física de quienes denuncian.
+Mitigación de noticias falsas: Asegura que los comunicados institucionales y las alertas publicadas sean
+auténticos y no información manipulada para generar pánico.
+Cumplimiento legal: Evita sanciones económicas y demandas por no cumplir con las leyes de protección de 
+datos personales (como el RGPD o leyes locales de habeas data).

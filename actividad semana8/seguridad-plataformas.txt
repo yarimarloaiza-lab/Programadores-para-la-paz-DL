@@ -1,0 +1,5 @@
+echo "1. Ocultar los datos" > seguridad-plataformas.txt
+echo "2. Limitar acceso a información sensible" >> seguridad-plataformas.txt
+echo "3. Viajar protegidos" >> seguridad-plataformas.txt
+echo "4. Proteger credenciales" >> seguridad-plataformas.txt
+echo "5. Registrar accesos" >> seguridad-plataformas.txt

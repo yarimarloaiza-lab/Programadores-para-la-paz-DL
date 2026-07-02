@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 228
+ETag: W/"e4-O9Wpm8BlIAJukvGMzFm1P7mzVIk"
+Date: Thu, 02 Jul 2026 02:10:22 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Caida del puente de la Dorada Caldas",
+  "descripcion": "La comunidad reporta la caida del puente por deterioro que conecta la dorada caldas con el municipio de puerto salgar cundinamarca"
+}

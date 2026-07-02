@@ -1,3 +1,17 @@
 ¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
 
-Recibir la información de forma estructurada (por ejemplo, a través de formatos como JSON y procesada mediante APIs) es fundamental por las siguientes razones:1. Permite la automatización instantáneaCuando los datos llegan con una estructura fija (campos claros como "tipo_incidente", "coordenadas" o "descripcion"), las computadoras pueden leerlos y procesarlos sin intervención humana [B]. Esto permite que el sistema asigne automáticamente el reporte al departamento correcto en segundos.2. Facilita el análisis de datos a gran escalaSi mil ciudadanos envían texto libre o audios, una plataforma no puede medir el impacto fácilmente. En cambio, si los datos están estructurados, un software puede agruparlos al instante para generar estadísticas, identificar cuáles son las zonas con más problemas y priorizar las emergencias reales de manera objetiva.3. Evita la ambigüedad y los erroresEl texto libre suele ser impreciso o carecer de datos vitales. Al estructurar la información mediante formularios que validan los campos obligatorios, la plataforma se asegura de recibir exactamente lo que necesita para actuar (como la ubicación exacta o el tipo de alerta), eliminando la necesidad de repreguntar al ciudadano.4. Interconexión entre sistemasLa información estructurada es el lenguaje universal de las APIs [B]. Si un reporte ciudadano está bien organizado, la plataforma puede compartirlo en tiempo real con la policía, los bomberos, mapas públicos o aplicaciones de mensajería de forma completamente transparente y segura
+Recibir la información de forma estructurada (por ejemplo, a través de formatos como JSON y procesada 
+mediante APIs) es fundamental por las siguientes razones:1. Permite la automatización instantáneaCuando los
+datos llegan con una estructura fija (campos claros como "tipo_incidente", "coordenadas" o "descripcion"),
+las computadoras pueden leerlos y procesarlos sin intervención humana [B]. Esto permite que el sistema 
+asigne automáticamente el reporte al departamento correcto en segundos.2. Facilita el análisis de datos 
+a gran escalaSi mil ciudadanos envían texto libre o audios, una plataforma no puede medir el impacto 
+fácilmente. En cambio, si los datos están estructurados, un software puede agruparlos al instante para 
+generar estadísticas, identificar cuáles son las zonas con más problemas y priorizar las emergencias reales
+de manera objetiva.3. Evita la ambigüedad y los erroresEl texto libre suele ser impreciso o carecer de datos
+vitales. Al estructurar la información mediante formularios que validan los campos obligatorios, 
+la plataforma se asegura de recibir exactamente lo que necesita para actuar (como la ubicación exacta o 
+el tipo de alerta), eliminando la necesidad de repreguntar al ciudadano.4. Interconexión entre sistemasLa 
+información estructurada es el lenguaje universal de las APIs [B]. Si un reporte ciudadano está bien 
+organizado, la plataforma puede compartirlo en tiempo real con la policía, los bomberos, mapas públicos 
+o aplicaciones de mensajería de forma completamente transparente y segura

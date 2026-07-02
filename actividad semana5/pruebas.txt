@@ -1,3 +1,32 @@
-"mensaje": "Reporte de prueba enviado por la comunidad"
-"mensaje": "hola juan"
-"mensaje": "hola"
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 15
+ETag: W/"f-/g7WUOIUyMzZ1WSfUzfonmY2tXc"
+Date: Thu, 02 Jul 2026 02:39:55 GMT
+Connection: close
+
+Servidor activo
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 14
+ETag: W/"e-w9sU7oi+lqB5PFSLjmnWCKxZrYQ"
+Date: Thu, 02 Jul 2026 02:41:30 GMT
+Connection: close
+
+Hola comunidad
+
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 9
+ETag: W/"9-S37dEQN0S/151barha5xWRn7UCo"
+Date: Thu, 02 Jul 2026 02:42:46 GMT
+Connection: close
+
+Hola juan

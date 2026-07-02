@@ -1,4 +1,19 @@
-Qué hace esta ruta.
-crea un acceso para comunicacion entre personas 
-Para qué podría servir en una aplicación comunitaria
-srive de forma mas segura la comunicacion y los mensajes que quiera trasmitirse 
+HTTP/1.1 404 Not Found
+X-Powered-By: Express
+Content-Security-Policy: default-src 'none'
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Content-Length: 147
+Date: Thu, 02 Jul 2026 02:52:38 GMT
+Connection: close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /reporte</pre>
+</body>
+</html>

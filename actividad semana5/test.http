@@ -1,0 +1,3 @@
+curl -X POST http://localhost:3000/reporte \
+-H "Content-Type: application/json" \
+-d '{"mensaje": "Reporte de prueba enviado por la comunidad"}'

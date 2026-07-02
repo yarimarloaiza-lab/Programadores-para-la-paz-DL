@@ -1,0 +1,11 @@
+Sistema operativo Administra las piezas físicas de la computadora y da la base para ejecutar cualquier 
+programa.
+
+Node.js Entorno que permite correr código JavaScript directamente en la computadora sin usar un navegador.
+
+Aplicación server.jsArchivo con las instrucciones de tu código para recibir usuarios y procesar sus reportes
+comunitarios.
+
+Puerto Puerta digital numerada en el servidor que canaliza el tráfico de internet hacia tu aplicación.
+
+Logs Historial en texto que registra las visitas y los errores del sistema para poder corregirlos.

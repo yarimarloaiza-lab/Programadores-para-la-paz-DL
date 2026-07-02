@@ -1,0 +1,21 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera 
+estable y segura en un servidor?
+
+La estabilidad y seguridad del servidor son fundamentales porque aseguran que la plataforma esté siempre
+disponible cuando los vecinos la necesitan y que sus datos íntimos nunca queden expuestos.
+Si el servidor falla o es hackeado, todo el esfuerzo de organización comunitaria se detiene al instante.
+Razones de peso explicadas de forma directa:
+Disponibilidad en emergencias: Si un vecino necesita reportar una fuga de agua urgente, un cable caído 
+o un problema de seguridad, el servidor debe responder de inmediato. 
+Un servidor inestable en un momento crítico no sirve de nada.Confianza digital: La comunidad confía en la
+plataforma para subir fotos de su entorno y describir problemas locales. Si el servidor pierde los datos 
+o sufre caídas constantes, la gente se frustra y deja de participar.
+Protección contra sabotajes: Las consultas comunitarias o votaciones vecinales pueden incomodar a ciertos
+sectores. Un servidor seguro evita que personas malintencionadas tumben la página (ataques DDoS) o 
+alteren los resultados de los reportes.
+Resguardo de la privacidad: El servidor almacena las contraseñas, correos y ubicaciones de los habitantes.
+Si el servidor es seguro, se bloquea el acceso a los ciberdelincuentes que buscan robar identidades o armar
+bases de datos para estafas.
+Eficiencia en la gestión: Un servidor que registra bien sus errores (logs) permite a los técnicos 
+comunitarios arreglar cualquier fallo técnico rápido, sin perder el historial de reportes que los vecinos 
+ya enviaron.

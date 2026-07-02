@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 29
+ETag: W/"1d-bo7kMUZSqMJPy6Bp1Qzz+2eGxlc"
+Date: Thu, 02 Jul 2026 05:20:10 GMT
+Connection: close
+
+Servidor activo y funcionando
+
+respuesta Al ejecutar el comando node server.js, lo que ocurre de manera general es que el entorno de
+ejecución de Node.js lee, compila y comienza a ejecutar el código JavaScript que se encuentra dentro del
+archivo
+
+el mesaje que aparece es que la apliacion se ejecuta correctamente
+servidor ejecutadore en puerto 3000
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 62
+ETag: W/"3e-KGRs7GFSMCw93VZ+7AZoD7LL2oI"
+Date: Thu, 02 Jul 2026 05:25:34 GMT
+Connection: close
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"

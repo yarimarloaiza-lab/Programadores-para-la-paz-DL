@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 134
+ETag: W/"86-3FvXsxVsgEVsnjAieodAwzCZsxg"
+Date: Thu, 02 Jul 2026 00:42:27 GMT
+Connection: close
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 7,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+}

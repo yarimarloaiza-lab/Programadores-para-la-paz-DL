@@ -1,0 +1,14 @@
+PORQUE ES IMPORTANTE QUE LAS COMUNIDADES PUEDE REGISTRAR REPORTES O INCIDENTES EN UN PLATAFORMA TECNOLOGICA
+
+Permitir que las comunidades registren reportes o incidentes en una plataforma tecnológica es fundamental 
+porque centraliza la información en tiempo real, acelera la respuesta de las autoridades y empodera a los 
+ciudadanos para mejorar su propio entorno de forma transparente.
+
+Beneficios clave para la comunidad y lasinstitucionesRespuesta rápida: Reduce los tiempos de atención a emergencias o fallas de infraestructura.
+Datos precisos: El uso de geolocalización por GPS y fotos elimina errores de ubicación.
+Transparencia total: Los ciudadanos pueden rastrear el estado de su reporte públicamente.
+Toma de decisiones: Permite a los gobiernos identificar zonas críticas mediante mapas de calor.
+Ahorro de recursos: Optimiza el despliegue de personal técnico a los lugares exactos.
+Participación ciudadana: Fomenta el sentido de pertenencia y corresponsabilidad vecinal.
+Prevención de riesgos: Ayuda a mitigar desastres mediante alertas tempranas comunitarias.
+Evidencia digital: Almacena un historial físico e inalterable de las problemáticas recurrentes
